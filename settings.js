@@ -15,10 +15,10 @@ global.alivemsg = `📤මම ජීවතුන් අතර ඉන්නවා
 🤷‍♀️මොකක්ද ඔයාට වෙන්න ඕනේ?😉` //Costomize Alive Message (type your message in `` )
 
 
-global.autoTyping = true //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = true //auto reading in gc (true to on, false to off)
-global.autoRecord = true //auto recording (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
