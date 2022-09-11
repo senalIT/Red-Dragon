@@ -19,7 +19,7 @@ global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
-global.available = true //auto available (true to on, false to off)
+global.available = false //auto available (true to on, false to off)
 
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 global.doc2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
@@ -29,7 +29,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94765400443'] // owner number
+global.vcardowner = ['+94769872326'] // owner number
 global.ownername = "😎BOT.SENAL❯❯" // owner name
 global.ytname = "" // yt chanel name 
 global.socialm = "GitHub: senalIT" // github or insta name
@@ -38,25 +38,25 @@ global.location = "Sri Lanka, Rathnapura, Ehaliyagoda" // location
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
+global.dragonchat = "false "  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "true" // call block "true" / "false" ("true"  to block callers)
 global.antibad = "true" // To remove bad word senders
 global.antilink = "true" // To remove group link sharing peoples
-global.upsongvoice = "true" // bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
+global.upsongvoice = "false" // bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 
-global.owner = ['+94765400443']
-global.ownertag = '+94765400443' //your tag number
+global.owner = ['+94769872326']
+global.ownertag = '+94769872326' //your tag number
 global.botname = 'SENAL - 𝘉𝘖𝘛' //ur bot name
 global.packname = "senal bot" // sticker packname
 global.author = "SENAL╺ BOT" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
+global.dragonemoji = 'senal🧩' // Menu emoji
 global.footer = '[ ◉ senal-bot-ᴍᴅ ]' //
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/senalIT/Red-Dragon' //Change Your Button's URL
 
 //database
-global.premium = ['+94765400443'] //ur premium numbers
+global.premium = ['+94769872326'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
